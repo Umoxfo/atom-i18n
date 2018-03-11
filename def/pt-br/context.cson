@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Dividir À Direita"
     "application:add-project-folder": "Adicionar Pasta De Projeto"
     "tree-view:remove-project-folder": "Excluir Pasta De Projeto"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Copiar Caminho Completo"
     "tree-view:copy-project-path": "Copiar Caminho Do Projeto"
     "tree-view:open-in-new-window": "Abra Em Uma Nova Janela"

@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Nach rechts teilen"
     "application:add-project-folder": "Projektordner hinzufügen"
     "tree-view:remove-project-folder": "Projektordner entfernen"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Gesamten Pfad kopieren"
     "tree-view:copy-project-path": "Projektpfad kopieren"
     "tree-view:open-in-new-window": "In neuem Fenster öffnen"

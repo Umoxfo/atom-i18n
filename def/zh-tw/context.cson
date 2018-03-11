@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "向右分割窗格並開啟 →"
     "application:add-project-folder": "新增專案資料夾"
     "tree-view:remove-project-folder": "移除專案資料夾"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "複製完整路徑"
     "tree-view:copy-project-path": "複製專案路徑"
     "tree-view:open-in-new-window": "於新視窗中開啟"

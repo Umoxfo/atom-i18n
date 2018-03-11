@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Splits naar rechts"
     "application:add-project-folder": "Voeg project map toe"
     "tree-view:remove-project-folder": "Verwijder project map"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Kopieer volledig pad"
     "tree-view:copy-project-path": "Kopieer project pad"
     "tree-view:open-in-new-window": "Open in een nieuw venster"

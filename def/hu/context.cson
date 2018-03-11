@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Osztott nézet jobbra"
     "application:add-project-folder": "Projekt könyvtár létrehozása"
     "tree-view:remove-project-folder": "Projekt könyvtár eltávolítása"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Teljes elérési út másolása"
     "tree-view:copy-project-path": "Projekt elérési út másolása"
     "tree-view:open-in-new-window": "Megnyitás új ablakban"

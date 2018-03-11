@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Dédoubler à droite"
     "application:add-project-folder": "Ajouter un dossier au projet"
     "tree-view:remove-project-folder": "Retirer un dossier du projet"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Copier le chemin complet"
     "tree-view:copy-project-path": "Copier le chemin du projet"
     "tree-view:open-in-new-window": "Ouvrir dans une nouvelle fenêtre"

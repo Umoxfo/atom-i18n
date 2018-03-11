@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Avaa oikealle"
     "application:add-project-folder": "Lisää projektihakemisto"
     "tree-view:remove-project-folder": "Poista projektihakemisto"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Kopioi koko tiedostopolku"
     "tree-view:copy-project-path": "Kopioi projektin polku"
     "tree-view:open-in-new-window": "Avaa uudessa ikkunassa"

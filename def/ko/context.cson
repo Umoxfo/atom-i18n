@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "오른쪽으로 분할"
     "application:add-project-folder": "프로젝트 폴더 추가"
     "tree-view:remove-project-folder": "프로젝트 폴더 삭제"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "전체 경로 복사"
     "tree-view:copy-project-path": "프로젝트 경로 복사"
     "tree-view:open-in-new-window": "새 창에서 열기"

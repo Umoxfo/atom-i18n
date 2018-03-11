@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Разделить справа"
     "application:add-project-folder": "Добавить папку проекта"
     "tree-view:remove-project-folder": "Удалить папку проекта"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Копировать полный путь"
     "tree-view:copy-project-path": "Копировать путь проекта"
     "tree-view:open-in-new-window": "Открыть в новом окне"

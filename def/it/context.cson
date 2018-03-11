@@ -85,6 +85,7 @@ Context:
     "tree-view:open-selected-entry-right": "Separa a destra"
     "application:add-project-folder": "Aggiungi una Cartella Progetto"
     "tree-view:remove-project-folder": "Elimina la Cartella Progetto"
+    "tree-view:collapse-all": "Collapse All Project Folders"
     "tree-view:copy-full-path": "Copia il percorso completo"
     "tree-view:copy-project-path": "Copia il percorso del Progetto"
     "tree-view:open-in-new-window": "Apri in una Nuova Finestra"
